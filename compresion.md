@@ -1,5 +1,4 @@
-
-```python
+```Python
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider
@@ -103,4 +102,5 @@ imagen_comprimida_interactiva()
 
 # Si quieres usar la función no interactiva, descomenta la siguiente línea:
 #graficas_ima_compri_color()
+```
 
