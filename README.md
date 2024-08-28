@@ -56,7 +56,7 @@ Puedes descargar el código completo para la compresión de imágenes utilizando
 
 Se muestran imágenes de jemplo
 
-![Imagen de Ejemplo](imagen.png)
+![Imagen de Ejemplo](image.png)
 ![Imagen de Ejemplo](Imagen1.png)
 ![Imagen de Ejemplo](Imagen2.png)
 ![Imagen de Ejemplo](Imagen3.png)
