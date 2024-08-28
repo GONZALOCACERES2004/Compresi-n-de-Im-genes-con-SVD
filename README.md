@@ -34,7 +34,7 @@ La función graficas_ima_compri_color() proporciona una visualización estática
 2.	Cuantificación del error: Proporciona una medida numérica del error para cada nivel de compresión.
 3.	Estudio de características importantes: Revela qué elementos de una imagen son más "esenciales" según el algoritmo SVD.
 
-Conclusiones
+
 Ambas funciones ofrecen perspectivas únicas sobre la compresión de imágenes.
 La opción interactiva es perfecta para una exploración práctica y dinámica, mientras que la opción no interactiva permite un análisis comparativo claro y directo.
 Ya sea que elijas experimentar con la interactividad o prefieras la visualización estática, ¡te animo a probar el código y descubrir el poder de la compresión de imágenes utilizando SVD! 
