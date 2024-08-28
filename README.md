@@ -42,13 +42,14 @@ Ya sea que elijas experimentar con la interactividad o prefieras la visualizaci�
 
 ## Acceso al Código
 
-Puedes acceder al código completo para la compresión de imágenes utilizando SVD aquí:
+Puedes ver el código completo para la compresión de imágenes utilizando SVD aquí:
+
+[Ver Código de Compresión de Imágenes con SVD](compresion.md)
+
+Puedes descargar el código completo para la compresión de imágenes utilizando SVD aquí:
 
 [Descargar Código de Compresión de Imágenes con SVD](compresion.py)
-[Ver Código de Compresión de Imágenes con SVD](compresion.md)
 
 ## Cómo Usar
 
-1. Asegúrate de tener Python instalado en tu sistema.
-2. Copia el código del enlace anterior en un archivo .py en tu computadora.
-3. Ejecuta el archivo Python.
+1.  Ejecuta el archivo Python.
