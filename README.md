@@ -44,7 +44,8 @@ Ya sea que elijas experimentar con la interactividad o prefieras la visualizaci�
 
 Puedes acceder al código completo para la compresión de imágenes utilizando SVD aquí:
 
-[Ver Código de Compresión de Imágenes con SVD](compresion.py)
+[Descargar Código de Compresión de Imágenes con SVD](compresion.py)
+[Ver Código de Compresión de Imágenes con SVD](compresion.md)
 
 ## Cómo Usar
 
