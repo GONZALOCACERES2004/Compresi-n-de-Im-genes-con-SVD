@@ -39,3 +39,15 @@ Ambas funciones ofrecen perspectivas únicas sobre la compresión de imágenes.
 La opción interactiva es perfecta para una exploración práctica y dinámica, mientras que la opción no interactiva permite un análisis comparativo claro y directo.
 Ya sea que elijas experimentar con la interactividad o prefieras la visualización estática, ¡te animo a probar el código y descubrir el poder de la compresión de imágenes utilizando SVD! 
 ¿Listo para sumergirte en el mundo de la compresión de imágenes? 
+
+## Acceso al Código
+
+Puedes acceder al código completo para la compresión de imágenes utilizando SVD aquí:
+
+[Ver Código de Compresión de Imágenes con SVD](compresion.py)
+
+## Cómo Usar
+
+1. Asegúrate de tener Python instalado en tu sistema.
+2. Copia el código del enlace anterior en un archivo .py en tu computadora.
+3. Ejecuta el archivo Python.
