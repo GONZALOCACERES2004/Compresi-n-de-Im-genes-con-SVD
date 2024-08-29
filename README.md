@@ -54,7 +54,7 @@ Puedes descargar el código completo para la compresión de imágenes utilizando
 
 1.  Ejecuta el archivo Python.
 
-Se muestran imágenes de jemplo
+Se muestran imágenes de ejemplo
 
 ![Imagen de Ejemplo](image.png)
 ![Imagen de Ejemplo](Imagen1.png)
